@@ -4,7 +4,7 @@ from tensorflow.keras.preprocessing import image
 import numpy as np
 from PIL import Image
 
-st.set_page_config("AI Pneumonia Detection", "🫁", layout="centered")
+st.set_page_config("AI powered Pneumonia Detection", "🫁", layout="centered")
 
 st.markdown("""
 <style>
